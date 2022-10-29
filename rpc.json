@@ -1,0 +1,23 @@
+{
+    "id":"應用程序 ID", 
+    "rpc_index":{
+        "excel.exe":{
+            "state": "示範",
+            "details": "示範",
+            "large_image":"在https://discord.com/developers/applications取得",
+            "large_text":"示範",
+            "small_image":"在https://discord.com/developers/applications取得"
+        },
+        "event":{
+            "state": "示範",
+            "details": "示範",
+            "large_image":"在https://discord.com/developers/applications取得",
+            "large_text":"示範",
+            "small_image":"在https://discord.com/developers/applications取得"
+        }
+    },
+    "rpc_button":{
+        "label": "示範按鈕",
+        "url": "https://discord.com/developers/applications"
+    }
+}
